@@ -1,0 +1,9 @@
+- npm run start:dev
+  - Subir el servicio
+
+- nest g controller <name>
+  - Generar el controller -name
+
+- nest g controller  controllers/products --flat
+  - crear controlladores con directorio, que lo deje de forma lineal
+
