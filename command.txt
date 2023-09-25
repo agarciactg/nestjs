@@ -7,3 +7,8 @@
 - nest g controller  controllers/products --flat
   - crear controlladores con directorio, que lo deje de forma lineal
 
+- nest g s services/products --flat
+  - crear servicios
+
+- nest g pipe common/parse-int
+  - crear un pipe
